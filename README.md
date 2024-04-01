@@ -1,4 +1,5 @@
-![image](https://github.com/puliraghavi/Healthcare-Analytics-Project/assets/119037510/aa7e7828-2dc1-4c10-8a77-86419da09eca)# Healthcare-Analytics-Project
+
+# Healthcare-Analytics-Project
 ## Dialysis of Patients
 
 ![dialysis bg](https://github.com/puliraghavi/Healthcare-Analytics-Project/assets/119037510/46a78a8b-69e9-4787-b745-9cd2ba2d875b)
@@ -7,7 +8,7 @@
 ## 📚Contents
 - [Introduction](#introduction)
 - [EDA in SQL](#eda-in-sql)
-- [Excel Report](#excelreport)
+- [Excel Report](#excel-report)
 - [Insights Obtained](#insights-obtained)
 
 # Introduction
