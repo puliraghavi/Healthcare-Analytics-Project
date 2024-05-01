@@ -15,7 +15,7 @@
 
 Healthcare is a fundamental aspect of human society, encompassing the prevention, diagnosis, treatment, and management of illness and injury. It is an essential service that impacts individuals, families, communities, and entire nations. In recent years, **data analysis has emerged as a critical tool in the healthcare industry**. The vast amount of data generated within healthcare systems, including patient records, medical imaging, genomic data, and administrative data, presents immense opportunities for **improving healthcare delivery and patient outcomes** through data-driven insights.
 
-In this project that I have done during my intership at Ai Variant, I have conducted an analysis focusing on dialysis treatment under various chain organisations, overview of these organisations, their performance over years and addressed the key performance indicators asked by the participating entities thereby providing valuable insights.
+In this project that I have done during my internship at Ai Variant, I have conducted an analysis focusing on dialysis treatment under various chain organisations, an overview of these organisations, their performance over the years and addressed the key performance indicators asked by the participating entities thereby providing valuable insights.
 
 - **Dialysis**:
 Dialysis is a life-saving medical procedure used to treat patients with kidney failure, also known as end-stage renal disease (ESRD). It is performed to mimic the function of the kidneys by removing waste products and excess fluids from the blood. It helps maintain the body's fluid balance and electrolyte levels, thereby preventing the buildup of toxins.
